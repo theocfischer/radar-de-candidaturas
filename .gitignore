@@ -17,3 +17,6 @@ exports/*.csv
 
 *.log
 .DS_Store
+
+.vercel/
+frontend/.vercel/
