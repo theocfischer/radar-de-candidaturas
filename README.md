@@ -4,6 +4,14 @@ O **Radar de Candidaturas** é um projeto pessoal em desenvolvimento, criado par
 
 A ideia é transformar um problema real — procurar a primeira oportunidade em tecnologia — em dados: empresas, vagas, requisitos, status, tecnologias pedidas, modalidade, cidade, links, salário aproximado e observações.
 
+## Links
+
+- Demo visual: https://radar-de-candidaturas-demo.vercel.app/
+- Código-fonte: https://github.com/theocfischer/radar-de-candidaturas
+
+> A demo visual usa dados fictícios e roda sem backend.  
+> A versão completa do projeto usa React, Node.js, Express e MySQL.
+
 ## Por que este projeto existe
 
 Na busca por vagas de entrada, algumas exigências mudam bastante a decisão de candidatura. Para mim, os filtros mais importantes são coisas como:
